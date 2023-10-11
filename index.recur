@@ -1,4 +1,5 @@
-To determine whether a word is a palindrome in Python, you can create a simple function like this:
+ 
+ To determine whether a word is a palindrome in Python, you can create a simple function like this:
 
 python
 Copy code
@@ -29,9 +30,7 @@ Breakdown of the processing: we compare the characters located at the ends of th
 if equality we test the rest of the word
 if difference we stop
 Stop condition: an empty word or a word containing a single character is a palindrome.
-ChatGPT
 
-3 / 3
 
 You're absolutely right, the process of checking if a word is a palindrome can be broken down as follows:
 
